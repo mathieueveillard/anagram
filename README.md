@@ -1,9 +1,5 @@
-# js-kata-starter
+# anagram
 
-Starter project for kata (Node, TypeScript, Jest)
+Write a method that checks if two strings are anagrams. An anagram of a word is a word that contains exactly the same letters, possibly in a different order.
 
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+For example, "marée", "armée" and "ramée" are anagrams, but the words "mariée" or "amaré" are not.
